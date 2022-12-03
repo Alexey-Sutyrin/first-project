@@ -45,7 +45,7 @@ public class Praktikum {
         }
     }
     
-    // Перенесите в ExpensesManager код методов saveExpense, findMaxExpense и printAllExpenses - ниже в ExpensesManager.java
+    // Перенесите в ExpensesManager код методов saveExpense, findMaxExpense и printAllExpenses - в файле-разделе ExpensesManager.java
 
     public static void printMenu() {
         System.out.println("Что вы хотите сделать? ");
